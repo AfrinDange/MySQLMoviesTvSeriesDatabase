@@ -1,2 +1,4 @@
-# MySQLMoviesTvSeriesDatabase
-Python Script to create a Movies and TVseries database.
+# Movies and TV Series Database
+
+The Python script uses pymysql, imdb and urllib library along with the OMDb API to populate the MySQL database.
+
